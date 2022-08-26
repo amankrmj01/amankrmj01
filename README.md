@@ -24,6 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/amankrmj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amankrmj01" height="30" width="40" /></a>
 <a href="https://discord.com/users/742181389839106108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="742181389839106108" height="30" width="40" /></a>
 <a href="https://devfolio.co/@amankrmj01" target="blank"><img align="center" src="https://beeimg.com/images/i23108234944.png" height="30" width="30" /></a>
+<a href="https://t.me/amankrmj01" target="blank"><img align="center" src="https://downloaddd.in.th/wp-content/uploads/2020/10/Telegram.png" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
