@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p>
 
@@ -23,6 +23,7 @@
 <a href="https://www.hackerearth.com/@amankrmj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@amankrmj01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amankrmj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amankrmj01" height="30" width="40" /></a>
 <a href="https://discord.com/users/742181389839106108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="742181389839106108" height="30" width="40" /></a>
+<a href="https://devfolio.co/@amankrmj01" target="blank"><img align="center" src="https://drive.google.com/file/d/1rHX1nS41w3W86Ms0RXDO9GcH_29tBIJp/view?usp=sharing" alt="742181389839106108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
