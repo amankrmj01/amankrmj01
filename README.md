@@ -7,7 +7,7 @@
 
 - Next Target🎯 -->**Pyhton**
 
-- Main Objective --> **BlockChain Developer**
+- Main Objective --> **Block🧱Chain🔗 Developer**
 
 - 🌏Discovering the world's hidden corners
 
