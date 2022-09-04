@@ -5,11 +5,11 @@
 
 - 🌱 In the process of learning **C++**
 
-- Next Target🎯 -->**Pyhton**
+- 🎯 Next Target -->**Pyhton**
 
-- Main Objective --> **Block🧱Chain🔗 Developer**
+- 🛠 Main Objective --> **Block🧱Chain🔗 Developer**
 
-- 🌏Exploring the hidden corners of the world
+- 🌏 Exploring the hidden corners of the world
 
 - ⚡ Fun fact **I'm always motivated**
 
