@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 In the process of learning **C++**
 
 - Next Target🎯 -->**Pyhton**
 
 - Main Objective --> **Block🧱Chain🔗 Developer**
 
-- 🌏Discovering the world's hidden corners
+- 🌏Exploring the hidden corners of the world
 
 - ⚡ Fun fact **I'm always motivated**
 
