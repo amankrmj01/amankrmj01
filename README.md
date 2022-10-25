@@ -9,7 +9,7 @@
 
 - 🛠 Main Objective --> **BlockChain Developer**
 
-- 🌏 Exploring the hidden corners of the world
+- 🌏 Exploring hidden gems of the world
 
 - ⚡ Fun fact **I'm always motivated**
 
