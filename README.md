@@ -34,7 +34,7 @@
   
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/c51415070942.png" alt="vscode" width="40" height="40"/></p>
 
-<h3 align="left">Follow me on:</h3>
+<h3 align="left">Follow & Connect with me on:</h3>
 <p align="left">
   <a href="https://t.me/amankrmj01" target="_blank"><img align="center" src="https://downloaddd.in.th/wp-content/uploads/2020/10/Telegram.png" alt="amankrmj01" height="30" width="30" /></a>
   <a href="https://discord.com/users/742181389839106108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="742181389839106108" height="30" width="40" /></a>
