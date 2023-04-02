@@ -12,7 +12,7 @@
 
 - 🌏 Entangled with this Work
 
-- ⚡ Fun fact **I'm always motivated**
+- ⚡ Fun fact **I'm honest coder**
 
 <h3 align="left">Contest platforms:</h3>
 <p align="left">
