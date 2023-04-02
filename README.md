@@ -12,7 +12,7 @@
 
 - 🌏 Entangled with this Work
 
-- ⚡ Fun fact **I'm honest coder**
+- ⚡ Fun fact **A group of stingrays is called a fever.**
 
 <h3 align="left">Contest platforms:</h3>
 <p align="left">
