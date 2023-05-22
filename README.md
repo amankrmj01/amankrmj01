@@ -4,15 +4,15 @@
 
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 
-- 🌱 In the process of learning -->**C**
+- 🌱 In the process of learning -->**C++**
 
 - 🎯 Next Target -->**Solidity**
 
 - 🛠 Main Objective --> **BlockChain Developer**
 
-- 🌏 Entangled with this Work
+- 🌏 Entangled with 0 and 1
 
-- ⚡ Fun fact **A group of stingrays is called a fever.**
+- ⚡ Fun fact **The Greek name for the mosquito is "anopheles," which means “good for nothing." and you are**
 
 <h3 align="left">Contest platforms:</h3>
 <p align="left">
