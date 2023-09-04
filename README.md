@@ -1,7 +1,8 @@
-<h1 align="center">Hellllooooo.... Dear😄</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&width=1000&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20profile!👋&animation=fadeIn&fontColor=ffffff&fontSize=30"/>
+</p>
 <h2 align="center">Hope you had a great day!!</h2>
-<h3 align="center">Welcome to My Profile </h3>
-
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 <p align = "left">
 Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. Ad have a strong understanding of blockchain platforms. My goal is to become a blockchain developer and use my knowledge to develop cutting-edge blockchain-based applications that can make a positive impact on the world.
@@ -48,3 +49,6 @@ Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. 
   <a href="https://instagram.com/amankrmj.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankrmj.01" height="30" width="40" /></a>
   </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=footer"/>
+</p>
