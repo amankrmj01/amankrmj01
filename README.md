@@ -52,7 +52,7 @@ Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. 
   </p>
 
 
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankrmj01)](https://github.com/amankrmj01/github-readme-stats)
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankrmj01&theme=tokyonight)](https://github.com/amankrmj01/github-readme-stats)
 
 
 <p align="center">
