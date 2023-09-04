@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&width=1000&section=header&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20profile!👋&animation=fadeIn&fontColor=ffffff&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20profile!👋&animation=fadeIn&fontColor=ffffff&fontSize=30&height=50"/>
 </p>
 <h2 align="center">Hope you had a great day!!</h2>
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
