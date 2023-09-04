@@ -8,6 +8,8 @@
 Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. Ad have a strong understanding of blockchain platforms. My goal is to become a blockchain developer and use my knowledge to develop cutting-edge blockchain-based applications that can make a positive impact on the world.
 </p>
 
+
+
 - 🌱 Currently Learning --> **Javascript**
 
 - 🎯 Next Target -->**Solidity**
@@ -48,6 +50,10 @@ Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. 
   <a href="https://linkedin.com/in/amankrmj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankrmj01" height="30" width="40" /></a>
   <a href="https://instagram.com/amankrmj.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankrmj.01" height="30" width="40" /></a>
   </p>
+
+
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankrmj01)](https://github.com/amankrmj01/github-readme-stats)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
