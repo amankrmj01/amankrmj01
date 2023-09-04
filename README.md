@@ -4,7 +4,7 @@
 
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 
-- 🌱 In the process of learning -->**C++**
+- 🌱 Currently Learning --> **Javascript**
 
 - 🎯 Next Target -->**Solidity**
 
