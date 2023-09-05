@@ -18,7 +18,7 @@ Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. 
 
 - 🌏 Entangled with 0 and 1
 
-- ⚡ Fun fact **The Greek name for the mosquito is "anopheles," which means “good for nothing." and you are**
+- ⚡ Fun fact **Being lazy is just a clever way to show off your intelligence!**
 
 <table border = "1" >
   <tr>
