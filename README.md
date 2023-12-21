@@ -10,9 +10,9 @@ Hi, I’m Aman Kumar, a student who loves blockchain and web3. I want to pursue 
 
 
 
-- 🌱 Currently Learning --> **Javascript**
+- 🌱 Currently Learning --> **Flutter**
 
-- 🎯 Next Target -->**Web3**
+- 🎯 Next Target -->**Not Sure**
 
 - 🛠 Main Objective --> **WEB3**
 
