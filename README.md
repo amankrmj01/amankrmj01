@@ -5,7 +5,7 @@
 <h2 align="center">Hope you had a great day!!</h2>
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 <p align = "left">
-Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. Ad have a strong understanding of blockchain platforms. My goal is to become a blockchain developer and use my knowledge to develop cutting-edge blockchain-based applications that can make a positive impact on the world.
+Hi, I’m Aman Kumar, a student who loves blockchain and web3. I want to pursue a job in web3 and create dynamic web3 websites that empower users to own their data and interact with decentralized applications. I have also worked on app development for Android using Kotlin and Firebase, as well as cross-platform applications using Flutter.
 </p>
 
 
@@ -14,7 +14,7 @@ Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. 
 
 - 🎯 Next Target -->**Web3**
 
-- 🛠 Main Objective --> **BlockChain Developer**
+- 🛠 Main Objective --> **WEB3**
 
 - 🌏 Entangled with 0 and 1
 
@@ -32,6 +32,15 @@ Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. 
       <a href="https://soliditylang.org/" target="_blank" rel="noreferrer" >
       <img src="https://beeimg.com/images/q56259876212.png" alt="solidity" width="40" height="40"/>
       </a>
+      <a href="https://dart.dev/" target="_blank" rel="noreferrer" >
+      <img src="https://beeimg.com/images/s36901406181.png" alt="Dart" width="40" height="40"/>
+      </a>
+      <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" >
+      <img src="https://beeimg.com/images/w67297240351.png" alt="Kotlin" width="40" height="40"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer" >
+      <img src="https://beeimg.com/images/u32440934764.png" alt="Javascript" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -39,10 +48,22 @@ Hi there, I’m Aman Kumar, a student with a passion for blockchain technology. 
       Tools
     </td>
     <td>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/c51415070942.png" alt="vscode" width="40" height="40"/>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/c51415070942.png" alt="vscode" width="40" height="40"/></a>
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/w10273607814.png" alt="IntelliJ Idea" width="40" height="40"/></a>
+      <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/z74997272861.png" alt="PHPStorm" width="40" height="40"/></a>
+      <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/i89778514173.png" alt="PyCharm" width="40" height="40"/></a>
+      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/f88267696292.png" alt="Android Studio" width="40" height="40"/></a>   
     </td>
-    
-</a>
+  </tr>
+  <tr>
+    <td>
+      Frameworks
+    </td>
+    <td>
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer" >
+      <img src="https://beeimg.com/images/e99612314151.png" alt="Flutter" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 
