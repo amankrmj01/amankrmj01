@@ -33,6 +33,8 @@ Hi, I’m Aman Kumar, a student who loves blockchain and web3. I want to pursue 
       <a href="https://dart.dev/" target="_blank" rel="noreferrer" ><img src="https://beeimg.com/images/s36901406181.png" alt="Dart" width="40" height="40"/></a>
       <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" ><img src="https://beeimg.com/images/w67297240351.png" alt="Kotlin" width="40" height="40"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer" ><img src="https://beeimg.com/images/u32440934764.png" alt="Javascript" width="40" height="40"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" ><img src="https://beeimg.com/images/n84460612452.png" alt="Javascript" width="40" height="40"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" ><img src="https://beeimg.com/images/l27462655183.png" alt="Javascript" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
