@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header&animation=fadeIn"/>
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20profile!👋&animation=fadeIn&fontColor=ffffff&fontSize=30&height=50"/>
 </p>
+<p>
 <h2 align="center">Hope you had a great day!!</h2>
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 <p align = "left">
@@ -67,22 +68,27 @@ Hi, I’m Aman Kumar, a student who loves blockchain and web3. I want to pursue 
   <table border=1 >
     <tr>
       <td>
-        <a href="https://www.codechef.com/users/amankrmj01" target="blank"><img align="center" src="https://beeimg.com/images/r31954412143.png" alt="amankrmj01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amankrmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankrmj" height="30" width="40" /></a>
-<a href="https://leetcode.com/amankrmj01/" target="_blank"><img align="center" src="https://beeimg.com/images/k25612475671.png" alt="amankrmj01" height="30" width="40" /></a>
+        <a href="https://www.codechef.com/users/amankrmj01" target="blank"><img align="center" src="https://beeimg.com/images/r31954412143.png" alt="amankrmj01" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/amankrmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankrmj" height="40" width="40" /></a>
+<a href="https://leetcode.com/amankrmj01/" target="_blank"><img align="center" src="https://beeimg.com/images/k25612475671.png" alt="amankrmj01" height="40" width="40" /></a>
       </td>
     </tr>
 </table>
 </p>
-
-
 <h3 align="left">Follow & Connect with me on:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/amankrmj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankrmj01" height="30" width="40" /></a>
+  <table border = 1>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/amankrmj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankrmj01" height="30" width="40" /></a>
   <a href="https://instagram.com/amankrmj.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankrmj.01" height="30" width="40" /></a>
+      </td>
+    </tr>
+  </table>
   </p>
-
-
+  
+</p>
+    
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankrmj01&theme=tokyonight)](https://github.com/amankrmj01/github-readme-stats)
 
 
