@@ -40,12 +40,13 @@ Hi, I’m Aman Kumar, a student who loves blockchain and web3. I want to pursue 
   </tr>
   <tr>
     <td>
-      Tools
+      Code Editors & IDEs
     </td>
     <td>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/c51415070942.png" alt="vscode" width="40" height="40"/></a>
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/w10273607814.png" alt="IntelliJ Idea" width="40" height="40"/></a>
-      <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/z74997272861.png" alt="PHPStorm" width="40" height="40"/></a>
+      <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/k70759366023.png" alt="IntelliJ Idea" width="40" height="40"/></a>
+      <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/f37436366442.png" alt="IntelliJ Idea" width="40" height="40"/></a>
       <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/i89778514173.png" alt="PyCharm" width="40" height="40"/></a>
       <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/f88267696292.png" alt="Android Studio" width="40" height="40"/></a>   
     </td>
