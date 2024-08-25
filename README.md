@@ -6,16 +6,16 @@
 <h2 align="center">Hope you had a great day!!</h2>
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 <p align = "left">
-Hi, I’m Aman Kumar, a student who loves blockchain and web3. I want to pursue a job in web3 and create dynamic web3 websites that empower users to own their data and interact with decentralized applications. I have also worked on app development for Android using Kotlin and Firebase, as well as cross-platform applications using Flutter.
+Hi, I’m Aman Kumar, a student who is transitioning from a focus on blockchain and web3 to pursuing a career as a Quant Analyst. I am excited to delve into quantitative analysis and related fields. Previously, I have worked on app development using Firebase, as well as cross-platform applications using Flutter.
 </p>
 
 
 
 - 🌱 Currently Learning --> **Flutter**
 
-- 🎯 Next Target -->**Not Sure**
+- 🎯 Next Target -->**Quant Analyst**
 
-- 🛠 Main Objective --> **WEB3**
+- 🛠 Main Objective --> **Quant Analyst**
 
 - 🌏 Entangled with 0 and 1
 
