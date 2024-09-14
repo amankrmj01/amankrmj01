@@ -6,20 +6,20 @@
 <h2 align="center">Hope you had a great day!!</h2>
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 <p align = "left">
-Hi, I’m Aman Kumar, a student who is transitioning from a focus on blockchain and web3 to pursuing a career as a Quant Analyst. I am excited to delve into quantitative analysis and related fields. Previously, I have worked on app development using Firebase, as well as cross-platform applications using Flutter.
+Hi, I'm Aman Kumar. B.Tech graduate in Electronics and Computer Engineering, aspiring software engineer. Proficient in Java, Dart, and Python. Created multiple mobile apps using Flutter, Firebase, Node.js, and MongoDB. Dabbled in blockchain development—crafted a few apps in that realm too! 
 </p>
 
 
 
 - 🌱 Currently Learning --> **Flutter**
 
-- 🎯 Next Target -->**Quant Analyst**
+- 🎯 Next Target -->**Backend Development**
 
-- 🛠 Main Objective --> **Quant Analyst**
+- 🛠 Main Objective --> **Software Engineer**
 
 - 🌏 Entangled with 0 and 1
 
-- ⚡ Fun fact **Being lazy is just a clever way to show off your intelligence!**
+- ⚡ Fun fact **Being lazy as a clever way to show off intelligence—absolutely! Efficiency is key, right? 😄**
 
 <table border = "1" >
   <tr>
