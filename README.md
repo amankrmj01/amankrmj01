@@ -94,6 +94,7 @@ Hi, I'm Aman Kumar. B.Tech graduate in Electronics and Computer Engineering, asp
       <td>
         <a href="https://linkedin.com/in/amankrmj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankrmj01" height="30" width="40" /></a>
   <a href="https://instagram.com/amankrmj.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankrmj.01" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/1113825943702749244" target="blank"><img align="center" src="https://8upload.com/image/67036dbd39523/icons8-discord-480.png" alt="https://discordapp.com/users/1113825943702749244" height="30" width="30" /></a>
       </td>
     </tr>
   </table>
