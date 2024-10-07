@@ -87,6 +87,47 @@ Hi, I'm Aman Kumar. B.Tech graduate in Electronics and Computer Engineering, asp
     </tr>
 </table>
 </p>
+
+
+## 💻 Projects & Portfolio
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Technology Stack</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td><b>Project 1: Chat Application</b></td>
+    <td>A real-time chat application built using Flutter and Firebase for mobile platforms. It supports user authentication, one-on-one messaging, and multimedia sharing.</td>
+    <td>Flutter, Firebase, Dart</td>
+    <td>
+      <a href="https://github.com/amankrmj01/chat-application" target="_blank">GitHub Repository</a> | 
+      <a href="https://youtu.be/demo-video" target="_blank">Demo Video</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Project 2: Crypto Wallet</b></td>
+    <td>A secure blockchain-based wallet to manage and transfer cryptocurrencies. Integrated with a live exchange rate API to convert prices in real-time.</td>
+    <td>Solidity, Node.js, MongoDB</td>
+    <td>
+      <a href="https://github.com/amankrmj01/crypto-wallet" target="_blank">GitHub Repository</a> |
+      <a href="https://youtu.be/demo-video" target="_blank">Demo Video</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Open-Source Contribution: FlutterFire</b></td>
+    <td>Contributed to the FlutterFire library by resolving issues and adding support for enhanced error handling.</td>
+    <td>Flutter, Firebase</td>
+    <td>
+      <a href="https://github.com/FirebaseExtended/flutterfire/pulls/amankrmj01" target="_blank">Pull Requests</a>
+    </td>
+  </tr>
+</table>
+
+
+
 <h3 align="left">Follow & Connect with me on:</h3>
 <p align="left">
   <table border = 1>
