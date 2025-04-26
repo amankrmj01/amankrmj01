@@ -21,6 +21,7 @@ Hi, I'm Aman Kumar. B.Tech graduate in Electronics and Computer Engineering, asp
 
 - ⚡ Fun fact **Being lazy as a clever way to show off intelligence—absolutely! Efficiency is key, right? 😄**
 
+# 💻 Tech Stack:
 <table border = "1" >
   <tr>
     <td>
