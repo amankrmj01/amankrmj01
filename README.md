@@ -6,8 +6,25 @@
 <h2 align="center">Hope you had a great day!!</h2>
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 <p align = "left">
-Hi, I'm Aman Kumar. B.Tech graduate in Electronics and Computer Engineering, aspiring software engineer. Proficient in Java, Dart, and Python. Created multiple mobile apps using Flutter, Firebase, Node.js, and MongoDB. Dabbled in blockchain development—crafted a few apps in that realm too! 
-</p>
+
+
+Hi, I'm Aman Kumar — a B.Tech graduate in Electronics and Computer Engineering and an aspiring **Software Engineer** with a passion for building robust and scalable solutions.
+
+🚀 **Flutter Application Developer** | 💻 **Backend Developer (Spring Boot)**  
+💡 Proficient in **Java**, **Kotlin**, **Dart**, and **Python**
+
+I've developed multiple cross-platform mobile applications using **Flutter** integrated with **Firebase**, **Node.js**, and **MongoDB**. I’ve also explored the world of **blockchain development**, crafting decentralized apps to understand the tech behind web3.
+</p>  
+
+---
+
+- 🌱 **Currently Learning** → Advanced Flutter architecture & clean code patterns  
+- 🎯 **Next Target** → Deepening backend development with Spring Boot & microservices  
+- 🛠 **Main Objective** → Becoming a full-stack Software Engineer  
+- 🌐 **Passion** → Solving real-world problems through tech, with clean and scalable code  
+- ⚡ **Fun fact** → I believe lazy coders often write the best code — not because they’re slow, but because they’re efficient! 😄
+
+---
 
 
 
@@ -106,9 +123,9 @@ Hi, I'm Aman Kumar. B.Tech graduate in Electronics and Computer Engineering, asp
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankrmj01&theme=tokyonight)](https://github.com/amankrmj01/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake.svg" />
 </picture>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
