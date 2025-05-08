@@ -11,7 +11,7 @@
 Hi, I'm Aman Kumar — a B.Tech graduate in Electronics and Computer Engineering and an aspiring **Software Engineer** with a passion for building robust and scalable solutions.
 
 🚀 **Flutter Application Developer** | 💻 **Backend Developer (Spring Boot)**  
-💡 Proficient in **Java**, **Kotlin**, **Dart**, and **Python**
+💡 Proficient in **Java**, **Kotlin**, and **Dart**
 
 I've developed multiple cross-platform mobile applications using **Flutter** integrated with **Firebase**, **Node.js**, and **MongoDB**. I’ve also explored the world of **blockchain development**, crafting decentralized apps to understand the tech behind web3.
 </p>  
@@ -26,17 +26,6 @@ I've developed multiple cross-platform mobile applications using **Flutter** int
 
 ---
 
-
-
-- 🌱 Currently Learning --> **Flutter**
-
-- 🎯 Next Target -->**Backend Development**
-
-- 🛠 Main Objective --> **Software Engineer**
-
-- 🌏 Entangled with 0 and 1
-
-- ⚡ Fun fact **Being lazy as a clever way to show off intelligence—absolutely! Efficiency is key, right? 😄**
 
 # 💻 Tech Stack:
 <table border = "1" >
@@ -76,9 +65,8 @@ I've developed multiple cross-platform mobile applications using **Flutter** int
       Frameworks
     </td>
     <td>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer" >
-      <img src="https://beeimg.com/images/e99612314151.png" alt="Flutter" width="40" height="40"/>
-      </a>
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer" ><img src="https://beeimg.com/images/e99612314151.png" alt="Flutter" width="40" height="40"/></a>
+      <a href="https://docs.spring.io/spring-boot/index.html" target="_blank" rel="noreferrer" ><img src="https://8upload.com/image/681cd3f76efac/icons8-spring-boot-96.png" alt="Spring Boot" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
@@ -86,8 +74,10 @@ I've developed multiple cross-platform mobile applications using **Flutter** int
       Database 
     </td>
     <td>
-        <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://beeimg.com/images/l90278897104.png" alt="amankrmj01" height="40" width="40" /></a>
-        <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://beeimg.com/images/a28480371661.png" alt="amankrmj01" height="40" width="40" /></a>
+        <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://beeimg.com/images/l90278897104.png" alt="Mongo DB" height="40" width="40" /></a>
+        <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://beeimg.com/images/a28480371661.png" alt="Firebase" height="40" width="40" /></a>
+      <a href="https://aws.amazon.com/pm/dynamodb/" target="blank"><img align="center" src="https://8upload.com/image/681cd4ae20c09/pngwing.com.png" alt="DyanomoDB" height="40" width="40" /></a>
+      <a href="https://supabase.com/" target="blank"><img align="center" src="https://8upload.com/image/681cd54831efa/icons8-supabase-96.png" alt="DyanomoDB" height="40" width="40" /></a>
     </td>
   </tr>
 </table>
@@ -110,8 +100,8 @@ I've developed multiple cross-platform mobile applications using **Flutter** int
   <table border = 1>
     <tr>
       <td>
-        <a href="https://linkedin.com/in/amankrmj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/amankrmj01/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankrmj01" height="30" width="40" /></a>
-  <a href="https://instagram.com/amankrmj.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/amankrmj01/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankrmj.01" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/amankrmj01" target="blank"><img align="center" src="https://8upload.com/image/681cd2a2f2af9/icons8-linkedin-96.png" alt="amankrmj01" height="30" width="40" /></a>
+  <a href="https://instagram.com/amankrmj.01" target="blank"><img align="center" src="https://8upload.com/image/681cd2f221a95/icons8-instagram-96.png" alt="amankrmj.01" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/1113825943702749244" target="blank"><img align="center" src="https://8upload.com/image/67036dbd39523/icons8-discord-480.png" alt="https://discordapp.com/users/1113825943702749244" height="30" width="30" /></a>
       </td>
     </tr>
