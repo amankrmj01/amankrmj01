@@ -88,7 +88,6 @@ I've developed multiple cross-platform mobile applications using **Flutter** int
   <table border=1 >
     <tr>
       <td>
-        <a href="https://www.codechef.com/users/amankrmj01" target="blank"><img align="center" src="https://beeimg.com/images/r31954412143.png" alt="amankrmj01" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/amankrmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankrmj" height="40" width="40" /></a>
 <a href="https://leetcode.com/amankrmj01/" target="_blank"><img align="center" src="https://beeimg.com/images/k25612475671.png" alt="amankrmj01" height="40" width="40" /></a>
       </td>
