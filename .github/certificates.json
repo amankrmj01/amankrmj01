@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Java (Basic) Certificate",
+    "description": "Covers fundamental concepts of the Java programming language.",
+    "url": "https://www.hackerrank.com/certificates/eac8d632729b",
+    "screenshots": [
+      "https://www.hackerrank.com/certificates/iframe/eac8d632729b"
+    ],
+    "largeDescription": "This certificate verifies core Java skills including classes, data structures, inheritance, exception handling, and more. Candidates are expected to be proficient in either Java 7 or Java 8.",
+    "type": "pdf"
+  },
+  {
+    "name": "Software Engineer Certificate",
+    "description": "Covers problem solving, SQL, and REST API concepts.",
+    "url": "https://www.hackerrank.com/certificates/3d700297d0f1",
+    "screenshots": [
+      "https://www.hackerrank.com/certificates/iframe/3d700297d0f1"
+    ],
+    "largeDescription": "This certificate validates foundational knowledge required for a software engineer role, including analytical problem solving, basic SQL database operations, and understanding of RESTful APIs.",
+    "type": "pdf"
+  }
+]
