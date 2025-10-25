@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B!+I'm+Aman+Kumar+Maurya;Aspiring+Software+Engineer+%F0%9F%92%BB;Backend+%7C+API+%7C+System+Design+Focused;Always+Learning+%26+Iterating+%F0%9F%9A%80" alt="Typing SVG" />
 
 </p>
-<p>
-<h2 align="center">Hope you had a great day!!</h2>
+
 <!--p align="left"> <a href="https://twitter.com/amankrmj01" target="blank"><img src="https://img.shields.io/twitter/follow/amankrmj01?logo=twitter&style=for-the-badge" alt="amankrmj01" /></a> </p-->
 <p align = "left">
 
