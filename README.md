@@ -112,7 +112,7 @@ I've developed multiple cross-platform mobile applications using **Flutter** int
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankrmj01&theme=tokyonight)](https://github.com/amankrmj01/github-readme-stats)
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amankrmj01&label=Stalkers%20Count&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=amankrmj01&label=Visitor%20Count&color=0e75b6&style=for-the-badge" />
 </p>
 
 <picture>
