@@ -111,6 +111,16 @@ I've developed multiple cross-platform mobile applications using **Flutter** int
     
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankrmj01&theme=tokyonight)](https://github.com/amankrmj01/github-readme-stats)
 
+### 🎮 ACHIEVEMENT UNLOCKED
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=amankrmj01&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=amankrmj01&label=Visitor%20Count&color=0e75b6&style=for-the-badge" />
 </p>
