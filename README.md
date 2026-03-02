@@ -113,6 +113,11 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
 <img src="https://komarev.com/ghpvc/?username=amankrmj01&label=Visitor%20Count&color=0e75b6&style=for-the-badge" />
 </p>
 
+<div align ="center">  
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/amankrmj01?theme=nord&font=Noto%20Sans%20Sundanese&ext=contest)
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake.svg" />
