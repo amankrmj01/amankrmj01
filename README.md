@@ -133,6 +133,8 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
   <img alt="github-snake" src="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake.svg" />
 </picture>
 
+![My GitHub Game](game.gif)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
