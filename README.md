@@ -33,6 +33,15 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
 
 ---
 
+<div align="center">
+
+![GitHubCard](https://githubcard.com/amankrmj01.svg?d=EVD41OiJ)
+
+</div>
+
+
+---
+
 # 💻 Tech Stack:
 <table border = "1" >
   <tr>
