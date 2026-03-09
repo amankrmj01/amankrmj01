@@ -16,7 +16,7 @@ Proficient in **Java**, and **Dart** 🌍
 
 
 🌐 **Portfolio:** A showcase of my projects, system design learning, and backend engineering work  
-👉 [Explore my work 🕸️](https://amankrmj01.github.io/portfolio/)
+👉 [Explore my work 🕸️](https://amankrmj09.github.io/portfolio/)
 </div>
 
 I've developed multiple cross-platform mobile applications using **Flutter** integrated with **Firebase**, **Spring Boot**, and **MongoDB**.  
@@ -98,7 +98,7 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
     <tr>
       <td>
 <a href="https://www.hackerrank.com/amankrmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankrmj" height="40" width="40" /></a>
-<a href="https://leetcode.com/amankrmj01/" target="_blank"><img align="center" src="https://beeimg.com/images/k25612475671.png" alt="amankrmj01" height="40" width="40" /></a>
+<a href="https://leetcode.com/amankrmj09/" target="_blank"><img align="center" src="https://beeimg.com/images/k25612475671.png" alt="amankrmj09" height="40" width="40" /></a>
       </td>
     </tr>
 </table>
@@ -109,8 +109,8 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
   <table border = 1>
     <tr>
       <td>
-        <a href="https://linkedin.com/in/amankrmj01" target="blank"><img align="center" src="https://8upload.com/image/681cd2a2f2af9/icons8-linkedin-96.png" alt="amankrmj01" height="30" width="40" /></a>
-  <a href="https://instagram.com/amankrmj.01" target="blank"><img align="center" src="https://8upload.com/image/681cd2f221a95/icons8-instagram-96.png" alt="amankrmj.01" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/amankrmj09" target="blank"><img align="center" src="https://8upload.com/image/681cd2a2f2af9/icons8-linkedin-96.png" alt="amankrmj09" height="30" width="40" /></a>
+  <a href="https://instagram.com/amankrmj.09" target="blank"><img align="center" src="https://8upload.com/image/681cd2f221a95/icons8-instagram-96.png" alt="amankrmj.09" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/1113825943702749244" target="blank"><img align="center" src="https://8upload.com/image/67036dbd39523/icons8-discord-480.png" alt="https://discordapp.com/users/1113825943702749244" height="30" width="30" /></a>
     </tr>
   </table>
@@ -119,18 +119,18 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amankrmj01&label=Visitor%20Count&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=amankrmj09&label=Visitor%20Count&color=0e75b6&style=for-the-badge" />
 </p>
 
 <div align ="center">  
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/amankrmj01?theme=nord&font=Noto%20Sans%20Sundanese&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/amankrmj09?theme=nord&font=Noto%20Sans%20Sundanese&ext=contest)
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/amankrmj01/amankrmj01/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/github-snake.svg" />
 </picture>
 
 ![My GitHub Game](game.gif)
