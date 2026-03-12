@@ -25,8 +25,8 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
 
 ---
 
-- 🌱 **Currently Learning** → Advanced Flutter architecture & clean code patterns  
-- 🎯 **Next Target** → Deepening backend development with Spring Boot & microservices  
+- 🌱 **Currently Learning** → Deepening backend development with Spring Boot & microservices  
+- 🎯 **Next Target** → Advanced Flutter architecture & clean code patterns  
 - 🛠 **Main Objective** → Becoming a full-stack Software Engineer  
 - 🌐 **Passion** → Solving real-world problems through tech, with clean and scalable code  
 - ⚡ **Fun fact** → !!Unity Believer!! （￣︶￣）↗　
@@ -132,8 +132,6 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/github-snake.svg" />
 </picture>
-
-![My GitHub Game](game.gif)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
